@@ -80,6 +80,6 @@ This script is for educational purposes only. Please respect Flipkart's terms of
 - Selenium Documentation
 - BeautifulSoup4 Documentation
 - Python Requests Library
-- XLML Documentatuon
+- XLML Documentation
 
 
